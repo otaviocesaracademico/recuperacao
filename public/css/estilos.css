@@ -1,0 +1,14 @@
+.img-w150 {
+    width: 150px;
+    border-radius: 50%;
+}
+#telaLogin {
+    width: 350px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#fundo{
+    background-color: rgb(8, 92, 218);
+}
